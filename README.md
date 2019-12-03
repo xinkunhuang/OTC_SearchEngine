@@ -1,24 +1,8 @@
-# CS410 MP2---Search Engines
+# OTC---Search Engines
 
-In this 4-part MP, you will get familiar with building and evaluating Search Engines.
-
-All MPs are checked on [EWS machines](https://answers.uillinois.edu/illinois.engineering/page.php?id=81727).
-While we cannot ensure that all operating systems and configurations are covered in the instructions, students can connect to these Linux-based workstations to complete assignments.
-
-# Part 2
-
-## Due: Oct 4, 2019 at 11:59 pm
-
-In this part, you will use the MeTA toolkit to do the following:
-- create a search engine over a dataset
-- investigate the effect of parameter values for a standard retrieval function
-- write the InL2 retrieval function
-- investigate the effect of the parameter value for InL2
-
-
-Also, you are free to edit all files **except**:
-- .gitlab-ci.yml
-- timeout.py 
+The tool we proposed is a vertical search engine that helps users finding the information about over-the-counter medicines online quickly. 
+Users can type inthe name of the sickness/discomfort, the symptoms they experiencedor the name of over-the-counter medicines. 
+The search engine will return the list of top 5 OTCs by ranks that are relevant to queries, as well as a link to a web page that provides more details. 
 
 
 ## Setup
@@ -41,16 +25,6 @@ pip install metapy pytoml --user
 ```
 
 
-Read the [C++ Search Tutorial](https://meta-toolkit.org/search-tutorial.html). Read *Initially setting up the config file and Relevance judgements*.
-Read the [python Search Tutorial](https://github.com/meta-toolkit/metapy/blob/master/tutorials/2-search-and-ir-eval.ipynb)
-
-If you cloned this repo correctly, your assignment directory should contain this:
-- MP2_part2/: assignment folder
-- MP2_part2/cranfield/: Cranfield dataset in MeTA format.
-- MP2_part2/cranfield-queries.txt: Queries one per line, copy it from the cranfield directory.
-- MP2_part2/cranfield-qrels.txt: Relevance judgements for the queries, copy it from the cranfield directory.
-- MP2_part2/stopwords.txt: A file containing stopwords that will not be indexed.
-- MP2_part2/config.toml: A config file with paths set to all the above files, including index and ranker settings.
 
 ## Indexing the data
 To index the data using metapy, you can use either Python 2 or 3.
@@ -169,35 +143,3 @@ class InL2Ranker(metapy.index.RankingFunction):
 
 ## Varying InL2’s parameter
 Perform the same parameter analysis with InPL2’s $`c`$ parameter. 
-
-## Statistical significance testing
-
-Modifying the code in [this section](#varying-a-parameter), you can create a file with average precision data. 
-
-Use BM25 as a ranker and create a file called bm25.avg_p.txt. 
-
-Then use your ranker InL2 and create a file called inl2.avg_p.txt. 
-
-Each of these files is simply a list of the APs from the queries.
-
-We want to test whether the difference between your two optimized retrieval functions is statistically significant.
-
-If you’re using R, you can simply do
-
-```R
-bm25 = read.table('bm25.avg_p.txt')$V1
-inl2 = read.table('inl2.avg_p.txt')$V1
-t.test(bm25, inl2, paired=T)
-```
-You don’t have to use R; you can even write a script to calculate the answer yourself.
-
-The output of the significance test will give you a p-value. If the p-value is less than 0.05 (our chosen significance level), then we will say that there is a significant difference between the two average precision lists. That means that there is less than a 5% chance that the difference in the mean of the AP scores is due to random fluctuation.
-
-Write the p-value in a file called **significance.txt**. 
-***Do not include anything else in the file, just this number!***
-
-## Grading
-
-Your grade will be based on:
-- passing the pipeline on gitlab
-- uploading singificance.txt with the p-value
