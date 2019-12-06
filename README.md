@@ -7,6 +7,7 @@ The search engine will return the list of top 5 OTCs by ranks that are relevant 
 # Applications
 
 -flask_app.py is used for pythonanywhere.com to build the web-based search engine
+
 -FindOTC_local.py is used to run the query in local bash terminal
 
 ## Setup
