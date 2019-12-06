@@ -23,7 +23,14 @@ If you have not installed metapy so far, use the following commands to get start
 pip install --upgrade pip
 
 # install metapy!
-pip install metapy pytoml
+pip install metapy 
+
+# install pytoml
+pip install pytoml
+
+# install beautifulsoup4
+pip install beautifulsoup4
+
 ```
 
 download the chrome driver file to use "OTC_WebScraper.py" in the link below:
