@@ -4,15 +4,15 @@ The tool we proposed is a vertical search engine that helps users finding the in
 Users can type inthe name of the sickness/discomfort, the symptoms they experiencedor the name of over-the-counter medicines. 
 The search engine will return the list of top 5 OTCs by ranks that are relevant to queries, as well as a link to a web page that provides more details. 
 
-# Python Files
-
-There are three python scripts
+# List of Files
 
 -flask_app.py is used for pythonanywhere.com to build the web-based search engine
 
 -FindOTC_local.py is used to run the query in local bash terminal
 
--OTC_WebScaper.py is used to scrape data from www.drugs.com
+-OTC_WebScraper.py is used to scrape data from www.drugs.com
+
+-OTC_Data.csv is the output result file by running OTC_WebScraper.py
 
 ## Setup
 We'll use [metapy](https://github.com/meta-toolkit/metapy)---Python bindings for MeTA. 
