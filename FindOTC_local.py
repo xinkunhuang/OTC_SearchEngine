@@ -58,9 +58,9 @@ if __name__ == '__main__':
     for i in range(len(results)):
         doc_id_temp=results[i][0]
         with open('otc_names.txt') as f:
-            name = f.read().splitlines()[doc_id_temp-1]
+            name = f.read().splitlines()[doc_id_temp]
         with open('otc_urls.txt') as f:
-            link = f.read().splitlines()[doc_id_temp-1]
+            link = f.read().splitlines()[doc_id_temp]
         results.append((name,link))
     
     print()
