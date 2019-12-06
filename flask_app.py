@@ -1,5 +1,4 @@
 
-# A very simple Flask Hello World app for you to get started with...
 import math
 import sys
 import time
@@ -15,15 +14,16 @@ app.config["DEBUG"] = True
 app.config["SECRET_KEY"] = "fdafagagrfrrcbklpiaonwehycbkjdksjdka"
 
 
+'''
+This is the main function for flask to build the page
+'''
 @app.route("/", methods=["GET", "POST"])
 def adder_page():
     errors = ""
     if request.method == "POST":
-        userinput = None
-        try:
-            userinput = request.form["userinput"]
-        except:
-            errors += "<p>{!r} is not a number.</p>\n".format(request.form["number1"])
+    
+    userinput = None
+    userinput = request.form["userinput"]
 
 
         if userinput is not None:
@@ -88,9 +88,11 @@ def adder_page():
         </html>
     '''.format(errors=errors)
 
+'''
+This function will takes a string argument and return a list of top 5 results 
+[names[0],links[0],names[1],links[1],names[2],links[2],names[3],links[3],names[4],links[4]]
+'''
 def search(userinput):
-
-
     top_k=5
 
     #Load settings from config.toml
@@ -124,11 +126,6 @@ def search(userinput):
         return ["No result","","","","","","","","",""]
 
 def load_ranker(cfg_file):
-    """
-    Use this function to return the Ranker object to evaluate,
-    The parameter to this function, cfg_file, is the path to a
-    configuration file used to load the index.
-    """
     #use BM25 method
     return metapy.index.OkapiBM25()
 
