@@ -13,9 +13,7 @@ import pytoml
 
 def load_ranker(cfg_file):
     """
-    Use this function to return the Ranker object to evaluate, 
-    The parameter to this function, cfg_file, is the path to a
-    configuration file used to load the index.
+    set the default ranking algorithm to Okapi BM25.
     """
     return metapy.index.OkapiBM25()
 
@@ -24,7 +22,9 @@ if __name__ == '__main__':
 
     cfg = "config.toml"
     print('Building or loading index...')
+    #Create/load a MeTA inverted index based on the provided config file and
     idx = metapy.index.make_inverted_index(cfg)
+    #assign the ranker function
     ranker = load_ranker(cfg)
 
     with open(cfg, 'r') as fin:
@@ -54,7 +54,7 @@ if __name__ == '__main__':
     #find the top 5 results
     results = ranker.score(idx, query, top_k)
     
-    #print out the results
+    #print out the results by fetching the data from files
     for i in range(len(results)):
         doc_id_temp=results[i][0]
         with open('otc_names.txt') as f:
