@@ -113,9 +113,9 @@ def search(userinput):
     for i in range(len(results)):
         doc_id_temp=results[i][0]
         with open(os.path.abspath("otc_urls.txt")) as f:
-            links.append(f.read().splitlines()[doc_id_temp-1])
+            links.append(f.read().splitlines()[doc_id_temp])
         with open(os.path.abspath("otc_names.txt")) as f:
-            names.append(f.read().splitlines()[doc_id_temp-1])
+            names.append(f.read().splitlines()[doc_id_temp])
 
 
     try:
