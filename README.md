@@ -25,6 +25,9 @@ pip install --upgrade pip
 # install metapy!
 pip install metapy pytoml
 ```
+# download the chrome driver file to use "OTC_WebScraper.py" in the link below:
+https://sites.google.com/a/chromium.org/chromedriver/downloads
+Please note that different platforms and different google chrome versions require different drivers
 
 If you're on an EWS machine
 ```bash
