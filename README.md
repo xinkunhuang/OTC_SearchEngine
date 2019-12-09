@@ -12,7 +12,7 @@ The search engine will return the list of top 5 OTCs by ranks that are relevant 
 
 -"OTC_WebScraper.py" is used to scrape data from www.drugs.com
 
--"OutputfromWebScraper.csv" is the output result file by running OTC_WebScraper.py. There are 18874 data entries(drugs) extracted. We filtered the data to only have OTC and OTC/RX drugs. The filtered dataset has 3673 entries. There are four columns: 1. Medication Name	2. URL 3.Pres Type(drug type) 4.Information Full Content, which is a short description paragraph on the drug.
+-"OutputfromWebScraper.csv" is the output result file by running OTC_WebScraper.py. There are 18874 data entries(drugs) extracted. We filtered the data to only have OTC and OTC/RX drugs. The filtered dataset has 2546 entries. There are four columns: 1. Medication Name	2. URL 3.Pres Type(drug type) 4.Information Full Content, which is a short description paragraph on the drug.
 
 -"cranfield/cranfield.dat" is the "information full content" column data from "OutputfromWebScraper.csv".
 
