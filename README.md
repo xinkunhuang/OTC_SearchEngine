@@ -28,8 +28,7 @@ The search engine will return the list of top 5 OTCs by ranks that are relevant 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 ## Setup
-We'll use [metapy](https://github.com/meta-toolkit/metapy)---Python bindings for MeTA. 
-If you have not installed metapy so far, use the following commands to get started.
+
 
 ```bash
 # Ensure your pip is up to date
