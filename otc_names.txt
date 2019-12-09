@@ -1,4 +1,4 @@
-﻿Acetaminophen
+Acetaminophen
 Advil
 Aleve
 Allegra
@@ -15,7 +15,6 @@ Acephen
 Acephen (rectal)
 Acerola
 Aceta-Gesic
-Acetaminophen
 Acetaminophen, aspirin, and caffeine
 Acetaminophen and caffeine
 Acetaminophen, caffeine, and magnesium salicylate
@@ -93,7 +92,6 @@ Adrenalin
 Adrenalin Chloride (Injection)
 Adrenalin (Injection)
 A & D (topical)
-Advil
 Advil Allergy Sinus
 Advil Children's (Oral)
 Advil Childrens Allergy Sinus
@@ -125,7 +123,6 @@ Alaway
 Albalon
 Aldex G
 Alera
-Aleve
 Aleve Arthritis (Oral)
 Aleve Cold and Sinus
 Aleve-D Sinus & Cold
@@ -143,7 +140,6 @@ Allantoin, camphor, and phenol (topical)
 All Day Allergy
 All Day Allergy Children's
 All Day Allergy-D
-Allegra
 Allegra-D (Oral)
 Allegra-D
 Allegra-D 24 Hour
@@ -260,14 +256,12 @@ Artificial Tears
 Ascarel
 Ascocid (Oral)
 Ascor (Intravenous)
-Ascorbic acid
 Ascorbic acid and carbonyl iron
 Ascorbic acid (Intravenous)
 Ascorbic Acid Quick Melts
 Ascriptin (Oral)
 Aspergum (Oral)
 Aspir 81
-Aspirin
 Aspirin and caffeine
 Aspirin, chlorpheniramine, and phenylephrine
 Aspirin (rectal)
@@ -284,12 +278,6 @@ Auraphene-B (otic)
 Auvi-Q
 Avedana Pain Relieving Roll On
 Avosil (Topical)
-Acetaminophen
-Advil
-Aleve
-Allegra
-Ascorbic acid
-Aspirin
 Axid AR
 Azo-Cranberry
 AZO Cranberry Gummies
@@ -338,7 +326,6 @@ Biotin
 Bismuth subsalicylate
 Bromfed DM
 Bedoz (Intramuscular)
-Benadryl
 Benadryl Allergy & Sinus Headache
 BENGAY Ultra
 Bensal HP
@@ -369,18 +356,6 @@ Beta Med (Topical)
 Betasal (Topical)
 Betasept
 Betatar Gel (Topical)
-Benadryl
-Biotin
-Bismuth subsalicylate
-Bromfed DM
-Benadryl
-Biotin
-Bismuth subsalicylate
-Bromfed DM
-Benadryl
-Biotin
-Bismuth subsalicylate
-Bromfed DM
 Bicarsim
 Bicarsim Forte
 Bidette (vaginal)
@@ -394,7 +369,6 @@ Biopatch
 Biopatch w/Chlorhexidine Gluconate (Topical application)
 Biotene
 Biotene Mouthwash
-Biotin
 Biotussin DAC
 Bisacodyl (oral and rectal)
 Bismarex
@@ -402,16 +376,7 @@ Bismatrol
 Bismatrol Maximum Strength
 Bismuth Extra Strength (Oral)
 Bismuth Original Formula (Oral)
-Bismuth subsalicylate
 Bi-Zets/Benzo-Troches
-Benadryl
-Biotin
-Bismuth subsalicylate
-Bromfed DM
-Benadryl
-Biotin
-Bismuth subsalicylate
-Bromfed DM
 Black Draught
 Blistex (topical)
 Blis-To-Sol
@@ -425,10 +390,6 @@ BP Allergy DM
 BP Allergy JR
 BPO 4% Gel (Topical)
 BPO 8% Gel (Topical)
-Benadryl
-Biotin
-Bismuth subsalicylate
-Bromfed DM
 Brevoxyl Acne Wash Kit
 Brevoxyl (Topical)
 Brimonidine ophthalmic
@@ -438,7 +399,6 @@ Bromaline
 Bromaline DM
 Bromatan-DM
 Bromatan Plus
-Bromfed DM
 Bromo Seltzer
 Brompheniramine
 Brompheniramine, codeine, and pseudoephedrine
@@ -463,22 +423,6 @@ Burn-O-Jel (Topical application)
 Butenafine Hydrochloride
 Butenafine topical
 Butoconazole vaginal
-Benadryl
-Biotin
-Bismuth subsalicylate
-Bromfed DM
-Benadryl
-Biotin
-Bismuth subsalicylate
-Bromfed DM
-Benadryl
-Biotin
-Bismuth subsalicylate
-Bromfed DM
-Benadryl
-Biotin
-Bismuth subsalicylate
-Bromfed DM
 Cafcit
 Cafcit (Intravenous)
 Cafcit (Oral)
@@ -540,13 +484,6 @@ Castiva Cooling
 Castiva Warming
 Castor Oil
 CaviRinse
-Calcium carbonate
-Cetirizine
-Cholecalciferol
-Claritin
-Colace
-Cyanocobalamin
-Calcium carbonate
 Cetirizine
 Cholecalciferol
 Claritin
@@ -567,22 +504,9 @@ CeraVe SA Renewing
 Cerovel
 Cetacort (Topical application)
 Cetafen
-Cetirizine
 Cetirizine Hydrochloride
 Cetirizine and pseudoephedrine
 Ce-Vi-Sol (Oral)
-Calcium carbonate
-Cetirizine
-Cholecalciferol
-Claritin
-Colace
-Cyanocobalamin
-Calcium carbonate
-Cetirizine
-Cholecalciferol
-Claritin
-Colace
-Cyanocobalamin
 Charcoal
 Charcoal, Activated
 Charcoal Plus DS
@@ -648,7 +572,6 @@ ChlorTan
 ChlorTan D
 Chlor-Trimeton
 Chlor Trimeton Nasal Decongestant
-Cholecalciferol
 Chondroitin
 Chondroitin and glucosamine
 Chondroitin, glucosamine, and methylsulfonylmethane (MSM)
@@ -664,19 +587,6 @@ Citracal + D
 Citrate of Magnesia
 Citroma
 Citrucel
-Calcium carbonate
-Cetirizine
-Cholecalciferol
-Claritin
-Colace
-Cyanocobalamin
-Calcium carbonate
-Cetirizine
-Cholecalciferol
-Claritin
-Colace
-Cyanocobalamin
-Claritin
 Claritin-D
 Claritin-D 12 Hour
 Claritin-D 24 Hour
@@ -700,12 +610,6 @@ Clotrim Antifungal (Topical)
 Clotrimazole-3
 Clotrimazole topical
 Clotrimazole vaginal
-Calcium carbonate
-Cetirizine
-Cholecalciferol
-Claritin
-Colace
-Cyanocobalamin
 Coal tar topical
 Cobal (Intramuscular)
 Cobolin-M (injection)
@@ -719,7 +623,6 @@ Codeine and pseudoephedrine
 Codimal DM
 Codituss DM
 Coenzyme Q10
-Colace
 Cold & Allergy Relief
 Cold & Cough Childrens
 Compliments Bismuth - Regular Strength (Oral)
@@ -764,12 +667,6 @@ Cortoderm Mild Ointment (Topical application)
 Cortoderm Regular Ointment (Topical application)
 Cosamin DS
 Cotacort (Topical application)
-Calcium carbonate
-Cetirizine
-Cholecalciferol
-Claritin
-Colace
-Cyanocobalamin
 Cranberry
 Creomulsion
 Creo-Terpin (Oral)
@@ -783,37 +680,12 @@ C/Rose Hips
 Cruex Prescription Strength
 Cruex Prescription Strength (Topical)
 Cruex (Topical)
-Calcium carbonate
-Cetirizine
-Cholecalciferol
-Claritin
-Colace
-Cyanocobalamin
 Culturelle Digestive Health
 Culturelle Health and Wellness
 Cutar Emulsion (Topical)
-Calcium carbonate
-Cetirizine
-Cholecalciferol
-Claritin
-Colace
-Cyanocobalamin
-Calcium carbonate
-Cetirizine
-Cholecalciferol
-Claritin
-Colace
-Cyanocobalamin
-Cyanocobalamin
 Cyanocobalamin (injection)
 Cyanocobalamin (Intramuscular)
 Cyanocobalamin (nasal)
-Calcium carbonate
-Cetirizine
-Cholecalciferol
-Claritin
-Colace
-Cyanocobalamin
 C-500 (Oral)
 Dakins Full Strength Solution
 Dallergy
@@ -900,10 +772,6 @@ Dextrose
 Dextrose 5% in Water (D5W)
 Dextrose (Intravenous)
 Dey-Pak
-Dextromethorphan
-Diphenhydramine
-Dulcolax
-Dextromethorphan
 Diphenhydramine
 Dulcolax
 DHS Sal (Topical)
@@ -936,7 +804,6 @@ Dimetapp Nighttime Cold & Congestion
 Diotame (Oral)
 Diphedryl
 Diphenhist
-Diphenhydramine
 Diphenhydramine Hydrochloride
 Diphenhydramine and ibuprofen
 Diphenhydramine and magnesium salicylate
@@ -944,15 +811,6 @@ Diphenhydramine and phenylephrine
 Disposable Enema (rectal)
 Diurex Aquagels
 Diurex Water Capsules
-Dextromethorphan
-Diphenhydramine
-Dulcolax
-Dextromethorphan
-Diphenhydramine
-Dulcolax
-Dextromethorphan
-Diphenhydramine
-Dulcolax
 Doak Tar (Topical)
 Doans Pills Extra Strength
 Doans PM
@@ -974,9 +832,6 @@ Doxylamine
 Doxylamine and phenylephrine
 Doxylamine and pseudoephedrine
 Doxylamine Succinate
-Dextromethorphan
-Diphenhydramine
-Dulcolax
 Dramamine
 Dramamine II (Oral)
 Dr Caldwell Laxative
@@ -999,7 +854,6 @@ Dr. Scholl's Medicated Foot Powder (Topical application)
 Dry Eye Omega Benefits
 Drytex (Topical)
 Dual Action Complete
-Dulcolax
 Dulcolax Stool Softener
 Duofilm (Topical)
 Duoforte 27 (Topical)
@@ -1020,9 +874,6 @@ Dyna-Hex
 Dytan-D
 Dytan-DM
 Dytuss
-Dextromethorphan
-Diphenhydramine
-Dulcolax
 Ecotrin
 Epinephrine
 EpiPen
@@ -1031,7 +882,6 @@ Esomeprazole
 Excedrin
 Echinacea
 EContra EZ
-Ecotrin
 Ecotrin (Oral)
 Ecpirin
 Ed A-Hist
@@ -1042,24 +892,6 @@ Ed-Chlor Ped Jr
 Ed-Chlortan
 Ed Cyte F
 Efidac 24 Pseudoephedrine (Oral)
-Ecotrin
-Epinephrine
-EpiPen
-Ergocalciferol
-Esomeprazole
-Excedrin
-Ecotrin
-Epinephrine
-EpiPen
-Ergocalciferol
-Esomeprazole
-Excedrin
-Ecotrin
-Epinephrine
-EpiPen
-Ergocalciferol
-Esomeprazole
-Excedrin
 Eldopaque
 Eldoquin
 Elimite
@@ -1081,11 +913,9 @@ Entex HC
 Entex T
 Entre-Cough
 Epimide 50
-Epinephrine
 Epinephrine inhalation
 Epinephrine injection
 Epinephrinesnap-EMS
-EpiPen
 EpiPen 2-Pak
 Epipen Jr (Injection)
 EpiPen JR 2-Pak
@@ -1098,8 +928,6 @@ Equate Children's Ibuprofen - Berry (Oral)
 Equate Children's Ibuprofen - Berry - Dye Free (Oral)
 Equate Mini Nicotine Lozenge - Fast Dissolving - Mint
 Equilizer Gas Relief (Oral)
-Ergocalciferol
-Esomeprazole
 Esomeprazole (injection)
 Esomeprazole Magnesium
 Esomeprazole
@@ -1110,14 +938,7 @@ Estar (Topical)
 Ester-C
 Eucalyptamint
 Evening Primrose
-Ecotrin
-Epinephrine
-EpiPen
-Ergocalciferol
-Esomeprazole
-Excedrin
 Exact Nicotine Lozenge - Mint
-Excedrin
 Excedrin Mild Headache
 Excedrin PM
 Excedrin Quick Tab Peppermint
@@ -1143,15 +964,6 @@ Fasprin
 Fast Freeze
 Father John's Medicine (Oral)
 Fat supplement
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
-Famotidine
 Ferrous gluconate
 Ferrous Sulfate
 Fexofenadine
@@ -1183,38 +995,11 @@ Ferro-Sequels
 Ferrousal
 Ferrous fumarate
 Ferrous fumarate and folic acid
-Ferrous gluconate
-Ferrous Sulfate
 Ferus Pic-150
 Feverall
 Feverall (rectal)
-Fexofenadine
 Fexofenadine Hydrochloride
 Fexofenadine and pseudoephedrine
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
 FiberCon
 Fiber Lax
 Fibertab
@@ -1222,23 +1007,6 @@ First - Lansoprazole (Oral)
 First - Omeprazole (Oral)
 First Progesterone MC10
 FIRST-Progesterone VGS 200
-Fish Oil
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
 Flanax Pain Reliever Tablets
 Flanax Pain Reliever
 Flavocoxid (Oral)
@@ -1253,7 +1021,6 @@ Florajen
 Florajen3
 Floranex
 Flora-Q
-Florastor
 Florastor Kids
 Floriva
 Fluocinolone Acetonide topical
@@ -1278,60 +1045,18 @@ Fluorosol
 Flurosyn
 Flu & Severe Cold & Cough Daytime Powder
 Flu & Severe Cold Night Time
-Fluticasone nasal
 Fluticasone Propionate eent
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
 Folacin-800
-Folic Acid
 Folic acid
 Formulation R (rectal)
 Fostex Cream (Topical)
 Fostex Wash 10%
 Fototar (Topical)
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
 Freeze It
 Freezone Corn Remover
 Freezone - One Step Callus Remover Pad (Topical)
 Freezone - One Step Corn Remover Pad (Topical)
 Freezone (Topical)
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
 Fungicure
 FungiCURE Pump Spray
 Fungi-Guard
@@ -1340,46 +1065,6 @@ Fungi-Nail
 Fungoid
 Fungoid (Topical)
 Fung-O (Topical)
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
-Famotidine
-Ferrous gluconate
-Ferrous Sulfate
-Fexofenadine
-Fish Oil
-Florastor
-Fluticasone nasal
-Folic Acid
 Gamma E-Gems (Oral)
 Gamma E Plus (Oral)
 Garcinia Cambogia
@@ -1390,23 +1075,6 @@ Gas Free Extra Strength
 Gastrolyte (Oral)
 Gas-X
 GaviLAX
-Garlic
-Ginger
-Ginkgo
-Glucosamine
-Glucosamine & Chondroitin with (MSM)
-Glucose
-GlycoLax
-Guaifenesin
-Garlic
-Ginger
-Ginkgo
-Glucosamine
-Glucosamine & Chondroitin with (MSM)
-Glucose
-GlycoLax
-Guaifenesin
-Garlic
 Ginger
 Ginkgo
 Glucosamine
@@ -1438,66 +1106,20 @@ Gentlax S
 Geri-Hydrolac
 Geri-Tussin Expectorant
 Gets-It Corn/Callus Remover (Topical)
-Garlic
-Ginger
-Ginkgo
-Glucosamine
-Glucosamine & Chondroitin with (MSM)
-Glucose
-GlycoLax
-Guaifenesin
-Garlic
-Ginger
-Ginkgo
-Glucosamine
-Glucosamine & Chondroitin with (MSM)
-Glucose
-GlycoLax
-Guaifenesin
-Garlic
-Ginger
-Ginkgo
-Glucosamine
-Glucosamine & Chondroitin with (MSM)
-Glucose
-GlycoLax
-Guaifenesin
 Gialax
 Gilphex TR
 Giltuss
 Giltuss Allergy Plus
-Ginger
-Ginkgo
-Garlic
-Ginger
-Ginkgo
-Glucosamine
-Glucosamine & Chondroitin with (MSM)
-Glucose
-GlycoLax
-Guaifenesin
-Garlic
-Ginger
-Ginkgo
-Glucosamine
-Glucosamine & Chondroitin with (MSM)
-Glucose
-GlycoLax
-Guaifenesin
 Glandosane Unflavored
 Glucodex 100 G (Oral)
 Glucodex 50 G (Oral)
 Glucodex 75 G (Oral)
-Glucosamine
 Glucosamine Chondroitin Advanced (MSM)
-Glucosamine & Chondroitin with (MSM)
-Glucose
 Glucoten
 Glutol (Oral)
 Glutose (Oral)
 Glycerin (rectal)
 Glycerin and witch hazel topical
-GlycoLax
 Gly-Cort (Topical application)
 Gold Bond Anti-Itch Lotion
 Gold Bond Medicated Body Powder (Topical application)
@@ -1516,55 +1138,14 @@ Gordofilm (Topical)
 Gordogesic
 Gordons Urea
 Gormel
-Garlic
-Ginger
-Ginkgo
-Glucosamine
-Glucosamine & Chondroitin with (MSM)
-Glucose
-GlycoLax
-Guaifenesin
-Garlic
-Ginger
-Ginkgo
-Glucosamine
-Glucosamine & Chondroitin with (MSM)
-Glucose
-GlycoLax
-Guaifenesin
 Guaiatussin AC
 Guaifen DAC
-Guaifenesin
 Guaifenesin, hydrocodone, and pseudoephedrine
 Guaifenesin and phenylephrine
 Guaifenesin and pseudoephedrine
 Guaifenex G (Oral)
 Guaifenex LA (Oral)
 Gumsol
-Garlic
-Ginger
-Ginkgo
-Glucosamine
-Glucosamine & Chondroitin with (MSM)
-Glucose
-GlycoLax
-Guaifenesin
-Garlic
-Ginger
-Ginkgo
-Glucosamine
-Glucosamine & Chondroitin with (MSM)
-Glucose
-GlycoLax
-Guaifenesin
-Garlic
-Ginger
-Ginkgo
-Glucosamine
-Glucosamine & Chondroitin with (MSM)
-Glucose
-GlycoLax
-Guaifenesin
 Habitrol
 Habitrol (transdermal)
 HAD
@@ -1594,88 +1175,19 @@ Hemorrodil (Topical application)
 Hemril-30 (cream, ointment, suppository)
 Hemril-HC Uniserts (cream, ointment, suppository)
 Hermes No. 8 (Oral)
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
 Hibiclens
 Hibistat (Topical application)
 Hibistat Towelette
-Hiprex
 Histafed
 HistaFlex
 Histex
 Hist-PSE
 Hi-Vegi-Lip
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
 Horse chestnut
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
-Humulin 70/30
 HumuLIN 70/30 KwikPen
-Humulin N
 HumuLIN N KwikPen
-Humulin R
 Humulin R U-100 (Injection)
 Hurricaine Spray Kit
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
 Hycofenix
 Hydra-1 (Oral)
 HydraLife (Oral)
@@ -1689,7 +1201,6 @@ Hydrocortisone butyrate (Topical application)
 Hydrocortisone Cream (Topical application)
 Hydrocortisone probutate (Topical application)
 Hydrocortisone rectal (cream, ointment, suppository)
-Hydrocortisone topical
 Hydrocortisone (Topical application)
 Hydrocortisone Valerate topical
 Hydrocortisone valerate (Topical application)
@@ -1710,28 +1221,16 @@ Hypromellose (Intraocular)
 Hypromellose ophthalmic
 Hysept
 Hytone (Topical application)
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
-Hiprex
-Humulin 70/30
-Humulin N
-Humulin R
-Hydrocortisone topical
 Ibu
 Ibuprofen
 Imodium A-D
 Insulin Regular
 Insulin regular
-Ibu
 Ibu-2 (Oral)
 Ibu-200 (Oral)
 Ibu-4 (Oral)
 Ibu-6 (Oral)
 Ibu-8 (Oral)
-Ibuprofen
 Ibuprofen injection
 Ibuprofen (Intravenous)
 Ibuprofen lysine (Intravenous)
@@ -1745,37 +1244,6 @@ Icy Hot
 Icy Hot Arthritis Therapy (Topical)
 Icy Hot with Capsaicin
 Icy Hot PM
-Ibu
-Ibuprofen
-Imodium A-D
-Insulin Regular
-Insulin regular
-Ibu
-Ibuprofen
-Imodium A-D
-Insulin Regular
-Insulin regular
-Ibu
-Ibuprofen
-Imodium A-D
-Insulin Regular
-Insulin regular
-Ibu
-Ibuprofen
-Imodium A-D
-Insulin Regular
-Insulin regular
-Ibu
-Ibuprofen
-Imodium A-D
-Insulin Regular
-Insulin regular
-Ibu
-Ibuprofen
-Imodium A-D
-Insulin Regular
-Insulin regular
-Imodium A-D
 Imodium A-D EZ Chews
 Imodium A-D New Formula
 Imogen (Oral)
@@ -1790,11 +1258,9 @@ Insta-Char
 Instacort
 Instacort-10 (Topical application)
 Insta-Glucose
-Insulin Regular
 Insulin human regular (Injection)
 Insulin isophane
 Insulin isophane and insulin regular
-Insulin regular
 Insulin regular, concentrated (U-500)
 Intrarosa
 Iodex (Topical)
@@ -1817,23 +1283,8 @@ Irritation & Redness Relief
 Isodettes Sore Throat (Oromucosal)
 Isopropyl alcohol (topical)
 Isopto Tears
-Ibu
-Ibuprofen
-Imodium A-D
-Insulin Regular
-Insulin regular
 Ivy Soothe (Topical application)
 IvyStat (Topical application)
-Ibu
-Ibuprofen
-Imodium A-D
-Insulin Regular
-Insulin regular
-Ibu
-Ibuprofen
-Imodium A-D
-Insulin Regular
-Insulin regular
 Jack & Jill Cough Syrup (Oral)
 Jadelle (Intradermal)
 KANK-A Mouth Pain Liquid
@@ -1843,7 +1294,6 @@ Kaon
 Kao-Paverin Caps (Oral)
 Kaopectate
 Kapectolin (Oral)
-Kaopectate
 K-Dur
 Ketoconazole topical
 Ketoprofen
@@ -1861,51 +1311,11 @@ Kerasal AL
 Keratol HC (Topical application)
 Kericort 10 (Topical application)
 Kerol
-Ketoconazole topical
 Ketodan Kit (Topical)
 Ketoderm (Topical)
-Ketoprofen
-Ketotifen (Oral)
 Ketotifen Fumarate
-Ketotifen ophthalmic
 Key-E (Oral)
-Kaopectate
-K-Dur
-Ketoconazole topical
-Ketoprofen
-Ketotifen (Oral)
-Ketotifen ophthalmic
-Klor-Con
-Kaopectate
-K-Dur
-Ketoconazole topical
-Ketoprofen
-Ketotifen (Oral)
-Ketotifen ophthalmic
-Klor-Con
 Kidkare Cough/Cold
-Kaopectate
-K-Dur
-Ketoconazole topical
-Ketoprofen
-Ketotifen (Oral)
-Ketotifen ophthalmic
-Klor-Con
-Kaopectate
-K-Dur
-Ketoconazole topical
-Ketoprofen
-Ketotifen (Oral)
-Ketotifen ophthalmic
-Klor-Con
-Klor-Con
-Kaopectate
-K-Dur
-Ketoconazole topical
-Ketoprofen
-Ketotifen (Oral)
-Ketotifen ophthalmic
-Klor-Con
 Koala Pals Fluoride Tooth Gel - Berrylicious Flavor
 Kola-Pectin (Oral)
 Kola-Pectin DS
@@ -1913,28 +1323,7 @@ Koldets Cough Drops (oral mucous membrane)
 Kolephrin
 Konsyl
 Konsyl Fiber
-Kaopectate
-K-Dur
-Ketoconazole topical
-Ketoprofen
-Ketotifen (Oral)
-Ketotifen ophthalmic
-Klor-Con
-Kaopectate
-K-Dur
-Ketoconazole topical
-Ketoprofen
-Ketotifen (Oral)
-Ketotifen ophthalmic
-Klor-Con
 KY Jelly
-Kaopectate
-K-Dur
-Ketoconazole topical
-Ketoprofen
-Ketotifen (Oral)
-Ketotifen ophthalmic
-Klor-Con
 LA-12 (Intramuscular)
 Lac-Hydrin
 Laclotion
@@ -1959,11 +1348,6 @@ Larynex
 Lassar's Paste (Topical application)
 Laxmar
 Lazer Creme (obsolete) (topical)
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
-Lansoprazole
 Levocetirizine
 Loperamide
 Loratadine
@@ -1973,21 +1357,12 @@ Leader Nicotine Polacrilex (gum, lozenge)
 Lecithin
 Lecithin-Softgels
 Legatrin PM
-Levocetirizine
 Levocetirizine Dihydrochloride
 Levonorgestrel (Oral)
 Levonorgestrel emergency contraceptive
 Levonorgestrel (Intradermal)
 Levonorgestrel (Intrauterine)
 Levonorgestrel intrauterine system
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
 Lice Bedding Spray
 Lice-X (Topical)
 Licide (Topical)
@@ -2006,33 +1381,15 @@ Liquor Carbonis Detergens (Topical)
 Little Noses Decongestant
 Little Tummys
 Little Tummys Laxative Drops
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
 LMX 4 (Topical application)
 LMX 5 (Topical application)
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
 Locoid
 Locoid Lipocream (Topical application)
 Locoid Lipocream (Topical application)
 Locoid (Topical application)
 Lodrane D
 LoHist-D
-Loperamide
 Loperamide Hydrochloride
-Loratadine
 Loratadine-D 12 Hour
 Loratadine-D 24 Hour
 Loratadine and pseudoephedrine
@@ -2044,50 +1401,14 @@ Lotrimin AF Cream
 Lotrimin AF (Topical)
 Lotrimin Jock Itch Powder
 Lotrimin (Topical)
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
 Lucidex (Oral)
 Luden's Honey Lemon Throat Drops (oral mucous membrane)
 Lumify Eye Drops
 Lumitene (Oral)
 Lupicare (Topical)
 Lustra
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
 Lydia E. Pinkham
 Lysine
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
-Lansoprazole
-Levocetirizine
-Loperamide
-Loratadine
 Maalox Total Stomach Relief
 Mag 2
 Mag64
@@ -2205,22 +1526,6 @@ Miradyne-3
 MiraLAX
 Mitrazol
 Mitrazol (Topical)
-Magnesium
-Magnesium citrate
-Magnesium oxide
-Meclizine
-Melatonin
-Metamucil
-MiraLAX
-Motrin
-Mucinex
-Magnesium
-Magnesium citrate
-Magnesium oxide
-Meclizine
-Melatonin
-Metamucil
-MiraLAX
 Motrin
 Mucinex
 Moi-Stir
@@ -2233,29 +1538,9 @@ Monistat 7
 Monistat Derm (Topical)
 Mosco Corn & Callus Remover (Topical)
 Motion Sickness Relief (Oral)
-Motrin
 Motrin IB
 Motrin PM
-Magnesium
-Magnesium citrate
-Magnesium oxide
-Meclizine
-Melatonin
-Metamucil
-MiraLAX
-Motrin
-Mucinex
-Magnesium
-Magnesium citrate
-Magnesium oxide
-Meclizine
-Melatonin
-Metamucil
-MiraLAX
-Motrin
-Mucinex
 MucaphEd
-Mucinex
 Mucinex Allergy
 Mucinex Children's Cold, Cough & Sore Throat
 Mucinex D
@@ -2273,24 +1558,6 @@ Multivitamins with fluoride
 Multivitamins and minerals
 Murine Ear Drops (otic)
 Muro 128 (ophthalmic)
-Magnesium
-Magnesium citrate
-Magnesium oxide
-Meclizine
-Melatonin
-Metamucil
-MiraLAX
-Motrin
-Mucinex
-Magnesium
-Magnesium citrate
-Magnesium oxide
-Meclizine
-Melatonin
-Metamucil
-MiraLAX
-Motrin
-Mucinex
 Mycinette
 Mycin Scalp (Topical application)
 Myclo-Derm (Topical)
@@ -2343,21 +1610,6 @@ Natural Vitamin Blend E-400IU (Oral)
 Nature's Blend Folic Acid
 Nature's Bounty Red Krill Oil
 Naxen (Oral)
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
-Naprosyn
-Naproxen
-Nasacort (Nasal)
 Niacin
 Niaspan ER
 Nicotine
@@ -2397,23 +1649,9 @@ New Skin Bandage
 Nexafed
 Nexium I.V.
 Next Choice
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
 Nia-Chrom
-Niacin
 Niacin SR
 Niacor
-Niaspan ER
 Nic-Assist - Mint
 N Ice (oral mucous membrane)
 N Ice with Vitamin C
@@ -2423,7 +1661,6 @@ Nicorelief
 Nicorelief (gum, lozenge)
 Nicorette Gum and Lozenges
 Nicorette Inhaler
-Nicotine
 Nicotine Gum and Lozenges
 Nicotine
 Nicotine (Nasal)
@@ -2451,36 +1688,6 @@ Nizatidine
 Nizoral A-D
 Nizoral A-D (Topical)
 Nizoral Topical
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
 No Doz Maximum Strength (Oral)
 NoHist-A
 NoHist DM
@@ -2497,24 +1704,6 @@ Novo-Hydrocort (Topical application)
 Novolin 70/30
 Novolin N
 Novolin R
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
 Nucofed Pediatric Expectorant
 NuCort (Topical application)
 Nu-Iron 150
@@ -2529,24 +1718,6 @@ Nutracort (Topical application)
 Nutraplus
 Nutr-E-Sol (Oral)
 NuZole
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
 Nycoff (Oral)
 Nyquil Cold & Flu
 NyQuil Cold & Flu (Alcohol Free)
@@ -2554,18 +1725,6 @@ NyQuil Cough
 NyQuil D
 NyQuil Severe Cold & Flu
 Nytol QuickCaps
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
-Naprosyn
-Naproxen
-Nasacort (Nasal)
-Niacin
-Niaspan ER
-Nicotine
 Occlusal-HP (Topical)
 Ocuclear (Ophthalmic)
 Ocu-Disal (Oral)
@@ -2579,30 +1738,13 @@ Omeprazole
 Orlistat
 Oxybutynin
 Oxymetazoline nasal
-Omega-3 polyunsaturated fatty acids
-Omeprazole
-Orlistat
-Oxybutynin
-Oxymetazoline nasal
-Omega-3 polyunsaturated fatty acids
-Omeprazole
-Orlistat
-Oxybutynin
-Oxymetazoline nasal
 Omega-3-acid ethyl esters (Oral)
 Omega-3-carboxylic acids (Oral)
-Omega-3 polyunsaturated fatty acids
-Omeprazole
 Omeprazole and sodium bicarbonate
 Omeprazole + SyrSpend SF Alka
 Omnii Gel Just For Kids
 One-Gram C (Oral)
 Ony-Clear
-Omega-3 polyunsaturated fatty acids
-Omeprazole
-Orlistat
-Oxybutynin
-Oxymetazoline nasal
 Opcicon One-Step
 Opcon-A
 Operand Chg Surgical Scrub Brush (Topical application)
@@ -2621,11 +1763,6 @@ Option 2 (Oral)
 Option+ Children's Ibuprofen - Berry (Oral)
 Option+ Children's Ibuprofen - Grape (Oral)
 Optive
-Omega-3 polyunsaturated fatty acids
-Omeprazole
-Orlistat
-Oxybutynin
-Oxymetazoline nasal
 Orabase-B
 Orabase Paste
 Oracaine
@@ -2638,7 +1775,6 @@ Orasol
 Orazinc
 Orazinc 110
 Orazinc 220
-Orlistat
 Ornex
 Ornex Maximum Strength
 OrthoWash
@@ -2651,26 +1787,14 @@ Osteo Bi-Flex
 Osteo Bi-Flex Advanced (MSM)
 Osteo Bi-Flex Plus (MSM)
 Ovol (Oral)
-Omega-3 polyunsaturated fatty acids
-Omeprazole
-Orlistat
-Oxybutynin
-Oxymetazoline nasal
 Oxipor VHC
 Oxy-10
 Oxy Balance (Topical)
-Oxybutynin
 Oxybutynin Chloride
 Oxybutynin (transdermal)
 Oxy Daily Wash
 Oxymetazoline Hydrochloride
-Oxymetazoline nasal
 Oxymetazoline ophthalmic
-Omega-3 polyunsaturated fatty acids
-Omeprazole
-Orlistat
-Oxybutynin
-Oxymetazoline nasal
 P-A-C Analgesic
 Pacnex
 Painalay (Oromucosal)
@@ -2732,7 +1856,6 @@ Perio Med
 Perishield (Topical application)
 Permethrin topical
 Persa-Gel
-Paracetamol
 Phenazopyridine
 Polyethylene glycol 3350
 Potassium Chloride
@@ -2744,7 +1867,6 @@ Phazyme
 Phazyme Liquid Gas Relief, Maximum Strength (Oral)
 Phenagil
 Phenazo 95 (Oral)
-Phenazopyridine
 Phenazopyridine Hydrochloride
 Phenol (Oromucosal)
 Phenylephrine
@@ -2772,34 +1894,18 @@ Pinworm Caplets
 Pinworm Medicine
 Piperonyl butoxide and pyrethrins topical
 Pitrex (Topical)
-Paracetamol
-Phenazopyridine
-Polyethylene glycol 3350
-Potassium Chloride
-Prochlorperazine
-Pseudoephedrine
-Pyridium
-Paracetamol
-Phenazopyridine
-Polyethylene glycol 3350
-Potassium Chloride
-Prochlorperazine
-Pseudoephedrine
-Pyridium
 Plan B One-Step
 Plan B One-Step
 Plan B One-Step (Oral)
 Pms-Prochlorperazine (Rectal)
 Podactin (Topical)
 Polycarbophil
-Polyethylene glycol 3350
 Poly Hist DM
 Poly Hist Forte
 Poly Iron
 Poly-Vent IR
 Pontocaine
 Posture
-Potassium Chloride
 Potassium chloride and sodium chloride
 Potassium gluconate
 Potassium iodide
@@ -2807,20 +1913,6 @@ Potassium phosphate
 Potassium phosphate (Intravenous)
 Potassium phosphate and sodium phosphate
 Potassium and sodium phosphate (Oral)
-Paracetamol
-Phenazopyridine
-Polyethylene glycol 3350
-Potassium Chloride
-Prochlorperazine
-Pseudoephedrine
-Pyridium
-Paracetamol
-Phenazopyridine
-Polyethylene glycol 3350
-Potassium Chloride
-Prochlorperazine
-Pseudoephedrine
-Pyridium
 Pramoxine Hydrochloride
 Pramoxine topical
 Pramoxine and zinc oxide topical
@@ -2851,7 +1943,6 @@ Probiotic Formula
 Probiotic Formula (Bacillus Coagulans)
 Prochieve
 Pro-Chlo
-Prochlorperazine
 Prochlorperazine Edisylate
 Prochlorperazine Maleate
 Prochlorperazine (rectal)
@@ -2882,34 +1973,12 @@ Propylhexedrine
 Provella
 Proxacol (Topical application)
 Pryflex
-Pseudoephedrine
 Pseudoephedrine and triprolidine
 Pseudovent
 Psoriasin
 Psorigel (Topical)
 P & S (Topical)
 Psyllium
-Paracetamol
-Phenazopyridine
-Polyethylene glycol 3350
-Potassium Chloride
-Prochlorperazine
-Pseudoephedrine
-Pyridium
-Paracetamol
-Phenazopyridine
-Polyethylene glycol 3350
-Potassium Chloride
-Prochlorperazine
-Pseudoephedrine
-Pyridium
-Paracetamol
-Phenazopyridine
-Polyethylene glycol 3350
-Potassium Chloride
-Prochlorperazine
-Pseudoephedrine
-Pyridium
 Pyrantel
 Pyrantel Pamoate
 Pyrecot
@@ -2917,20 +1986,12 @@ Pyregesic
 Pyrethrins with Piperonyl Butoxide
 Pyrethrum extract and piperonyl butoxide (Topical)
 Pyri-500
-Pyridium
 Pyridoxine
 Pyridoxine Hydrochloride
 Pyridoxine
 Pyrinex (Topical)
 Pyrinyl (Topical)
 Pyrithione (Topical)
-Paracetamol
-Phenazopyridine
-Polyethylene glycol 3350
-Potassium Chloride
-Prochlorperazine
-Pseudoephedrine
-Pyridium
 Quenalin
 QuinZyme (coenzyme Q-10)
 Quit Nicotine Gum - Mint
@@ -2940,9 +2001,6 @@ RadiaGuard
 Ranitidine
 Ranitidine Hydrochloride
 Rash Relief Antifungal
-Ranitidine
-Robitussin
-Ranitidine
 Robitussin
 React
 Re-Azo
@@ -2996,18 +2054,9 @@ Risa-Bid
 RisaQuad
 Rite Aid First Aid Epsom Salt
 Rite Aid Senna (Oral)
-Ranitidine
-Robitussin
-Ranitidine
-Robitussin
-Ranitidine
-Robitussin
-Ranitidine
-Robitussin
 Robafen
 Robafen Cough (Oral)
 Robafen Cough Liquidgels
-Robitussin
 Robitussin Allergy & Cough
 Robitussin Children's Cough & Cold CF
 Robitussin Cold Cough and Flu
@@ -3033,26 +2082,10 @@ Rogaine
 Rogaine For Men Extra Strength (Topical)
 Rogaine (Topical)
 Rolaids
-Ranitidine
-Robitussin
-Ranitidine
-Robitussin
-Ranitidine
-Robitussin
 Rulox
-Ranitidine
-Robitussin
-Ranitidine
-Robitussin
-Ranitidine
-Robitussin
 Rydex
 Rynex DM
 Rynex PE
-Ranitidine
-Robitussin
-Ranitidine
-Robitussin
 Saccharomyces boulardii lyo
 Saccharomyces Boulardii+MOS
 S-adenosylmethionine (SAMe)
@@ -3092,7 +2125,6 @@ SAStid (Topical)
 Satogesic
 Saw Palmetto
 Sayman Soap with Witch Hazel
-Saw Palmetto
 Selenium
 Senna
 Senokot
@@ -3114,20 +2146,10 @@ Scot-Tussin Diabetic
 Scot-Tussin Sugar Free DM
 Scrub Care Exidine
 Scytera
-Saw Palmetto
-Selenium
-Senna
-Senokot
-Simethicone
-Sodium bicarbonate
-Sodium chloride (Oral)
-Sudafed
-Systane
 Seba-Clear (Topical)
 Secura Antifungal
 Secura Antifungal (Topical)
 Selenious Acid
-Selenium
 Selenium Sulfide
 Selenium sulfide topical
 Selenium supplement (Oral)
@@ -3141,13 +2163,11 @@ Selsun Blue Balanced Treatment
 Selsun Blue Medicated Treatment (Topical)
 Senatec (Topical application)
 Senexon
-Senna
 Senna-gen
 Senna Lax
 Sennalax-S
 Senna Plus
 Senna S
-Senokot
 Senokot Extra
 Senokot S
 Senokot Syrup (Oral)
@@ -3156,15 +2176,6 @@ SenokotXTRA
 SenoSol
 SenoSol-SS
 SenoSol-X
-Saw Palmetto
-Selenium
-Senna
-Senokot
-Simethicone
-Sodium bicarbonate
-Sodium chloride (Oral)
-Sudafed
-Systane
 Siladryl Allergy
 Silapap
 Silfedrine
@@ -3175,7 +2186,6 @@ Siltane
 Siltussin DM
 Siltussin SA
 SimePed
-Simethicone
 Similac Glucose (Oral)
 Simply Cough (Oral)
 Simply Motion (Oral)
@@ -3191,15 +2201,6 @@ Sinus Congestion and Pain Daytime Cool Ice
 Sinus Pain & Pressure
 Sinutab Ex-Strength
 Sinutab Non Drying
-Saw Palmetto
-Selenium
-Senna
-Senokot
-Simethicone
-Sodium bicarbonate
-Sodium chloride (Oral)
-Sudafed
-Systane
 Skincure (Topical)
 Sleepinal
 Sloan's Liniment
@@ -3210,10 +2211,8 @@ Slow Release Iron
 Smart Sense Children's Ibuprofen
 Sochlor (ophthalmic)
 Sodium bicarbonate
-Sodium bicarbonate
 Sodium biphosphate and sodium phosphate
 Sodium biphosphate and sodium phosphate (rectal)
-Sodium chloride (Oral)
 Sodium chloride (flush)
 Sodium chloride hypertonic (ophthalmic)
 Sodium chloride (inhalation)
@@ -3251,7 +2250,6 @@ Stri-Dex
 Stri-Dex (Topical)
 Strong Iodine Solution
 Sucrets
-Sudafed
 Sudafed Children's Nasal Decongestant
 Sudafed PE
 Sudafed PE Children's Cold & Cough
@@ -3282,15 +2280,6 @@ Supress A Pediatric
 Supress-PE
 SuTan-DM
 Su-Tuss HD Elixir
-Saw Palmetto
-Selenium
-Senna
-Senokot
-Simethicone
-Sodium bicarbonate
-Sodium chloride (Oral)
-Sudafed
-Systane
 Swabflush (flush)
 Swiss Kriss (Oral)
 Symjepi
@@ -3301,16 +2290,6 @@ Synalar Regular (Topical application)
 Synamol (Topical application)
 Syrex (Injection)
 Syrex (flush)
-Systane
-Saw Palmetto
-Selenium
-Senna
-Senokot
-Simethicone
-Sodium bicarbonate
-Sodium chloride (Oral)
-Sudafed
-Systane
 TabTussin DM
 Tactinal
 Tagamet
@@ -3392,21 +2371,11 @@ Tip-Lok Diluent (flush)
 Ti-Seb (Topical)
 Tisit (Topical)
 Titralac
-Thiamine
-Turmeric
-Tylenol
-Thiamine
-Turmeric
-Tylenol
-Thiamine
 Turmeric
 Tylenol
 Tolnaftate
 Tolnaftate topical
 Topicaine (Topical application)
-Thiamine
-Turmeric
-Tylenol
 Tranquil
 Transderm-iQ (topical)
 Travel-Ease
@@ -3456,14 +2425,10 @@ Trosyd J (Topical)
 TRUEplus
 Trutol Fruit Punch
 Tryptophan
-Thiamine
-Turmeric
-Tylenol
 Tucks
 Tucks HC (cream, ointment, suppository)
 Tucks Hemorrhoidal
 Tur-Bi-Cal (Nasal)
-Turmeric
 Tusicof
 Tusnel
 Tusnel C
@@ -3473,11 +2438,7 @@ Tussin DM
 Tussin Expectorant
 Tussi-Pres B
 Tuzistra XR
-Thiamine
-Turmeric
-Tylenol
 Tycolene
-Tylenol
 Tylenol Allergy Multi-Symptom
 Tylenol Children's Plus Cold
 Tylenol Childrens Plus Cough & Runny Nose
@@ -3495,32 +2456,6 @@ Tylenol Sore Throat Nighttime
 Tylenol Warming Cold Multi-Symptom Nighttime
 Tylenol Warming Cough & Sore Throat Nightime
 Tyrosine
-Thiamine
-Turmeric
-Tylenol
-Thiamine
-Turmeric
-Tylenol
-Undecylenic acid topical
-Unisom
-Uristat (Oral)
-Utopic
-Undecylenic acid topical
-Unisom
-Uristat (Oral)
-Utopic
-Undecylenic acid topical
-Unisom
-Uristat (Oral)
-Utopic
-Undecylenic acid topical
-Unisom
-Uristat (Oral)
-Utopic
-Undecylenic acid topical
-Unisom
-Uristat (Oral)
-Utopic
 Undecylenic acid topical
 Unisom
 Uristat (Oral)
@@ -3531,24 +2466,14 @@ Ultralytic 2 (topical)
 Ultralytic (topical)
 Ultra Mide (Topical)
 Umecta
-Undecylenic acid topical
 Undelenic
 Uni-Cenna (Oral)
-Unisom
 Unisom with Pain Relief
 Unisom Sleepgels Maximum Strength
-Undecylenic acid topical
-Unisom
-Uristat (Oral)
-Utopic
 UpCal D
 UpSpringbaby D
 Up & Up Bismuth - Regular Strength (Oral)
 Up & Up Extra Strength Bismuth (Oral)
-Undecylenic acid topical
-Unisom
-Uristat (Oral)
-Utopic
 Uramaxin
 Urasal (Oral)
 Ureacin-10
@@ -3558,30 +2483,8 @@ Urea topical
 Urex (Oral)
 Uricalm
 Uricalm Intensive
-Uristat (Oral)
 Uro-Mag
 UTI Relief (Oral)
-Utopic
-Undecylenic acid topical
-Unisom
-Uristat (Oral)
-Utopic
-Undecylenic acid topical
-Unisom
-Uristat (Oral)
-Utopic
-Undecylenic acid topical
-Unisom
-Uristat (Oral)
-Utopic
-Undecylenic acid topical
-Unisom
-Uristat (Oral)
-Utopic
-Undecylenic acid topical
-Unisom
-Uristat (Oral)
-Utopic
 Vagistat-1
 Vagistat-3
 Valerian
@@ -3600,19 +2503,9 @@ Vitamin D
 Vitamin D2
 Vitamin D3
 Vitamin E
-Vitamin C
-Vitamin D
-Vitamin D2
-Vitamin D3
-Vitamin E
 Venastat
 Venelex
 Versel (Topical)
-Vitamin C
-Vitamin D
-Vitamin D2
-Vitamin D3
-Vitamin E
 Vicks 44 Cold, Flu and Cough
 Vicks 44 Cough Relief (Oral)
 Vicks Pediatric Formula 44M
@@ -3644,30 +2537,10 @@ Vitamin B1
 Vitamin B12 Injection
 Vitamin B2
 Vitamin B6
-Vitamin C
 Vitamin C Powder (Oral)
-Vitamin D
-Vitamin D2
-Vitamin D3
-Vitamin E
 Vitamin k (class)
 Vitamins A, D, and E (topical)
 Vitapap
 Vita-Ray (topical)
 Vitron-C
 Viva (topical)
-Vitamin C
-Vitamin D
-Vitamin D2
-Vitamin D3
-Vitamin E
-Vitamin C
-Vitamin D
-Vitamin D2
-Vitamin D3
-Vitamin E
-Vitamin C
-Vitamin D
-Vitamin D2
-Vitamin D3
-Vitamin E
