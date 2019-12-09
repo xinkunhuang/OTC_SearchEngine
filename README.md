@@ -24,8 +24,7 @@ The search engine will return the list of top 5 OTCs by ranks that are relevant 
 
 -"stopwords.txt" contains list of commond words, like "the" and "a".
 
--"chromedriver.exe" is used to scrape the data from www.drugs.com. Please note that different platforms and different google chrome versions require different drivers. download the chrome driver file to use "OTC_WebScraper.py" in the link:
-https://sites.google.com/a/chromium.org/chromedriver/downloads
+-"chromedriver.exe" is used to scrape the data from www.drugs.com. Please note that different platforms and different google chrome versions require different drivers. 
 
 ## Setup
 
@@ -43,6 +42,9 @@ If you're on an EWS machine
 module load python3
 # install metapy on your local directory
 pip install metapy pytoml beautifulsoup4 --user
+
+download the chrome driver file to use "OTC_WebScraper.py" in the link:
+https://sites.google.com/a/chromium.org/chromedriver/downloads
 ```
 
 
