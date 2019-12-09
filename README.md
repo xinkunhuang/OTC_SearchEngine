@@ -29,23 +29,14 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 ## Setup
 
-
 ```bash
 # Ensure your pip is up to date
 pip install --upgrade pip
 
-# install metapy!
-pip install metapy 
-
-# install pytoml
-pip install pytoml
-
-# install beautifulsoup4
-pip install beautifulsoup4
+# install metapy,pytoml and beautifulsoup4
+pip install metapy pytoml beautifulsoup4
 
 ```
-
-
 
 If you're on an EWS machine
 ```bash
