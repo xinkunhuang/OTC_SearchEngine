@@ -43,7 +43,7 @@ module load python3
 # install metapy on your local directory
 pip install metapy pytoml beautifulsoup4 --user
 
-download the chrome driver file to use "OTC_WebScraper.py" in the link:
+download the chrome driver file to use "OTC_WebScraper.py":
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 ```
 
