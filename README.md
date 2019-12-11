@@ -29,11 +29,12 @@ The search engine will return the list of top 5 OTCs by ranks that are relevant 
 ## Setup
 
 ```bash
-# Ensure your pip is up to date
-pip install --upgrade pip
+# Ensure your pip is up to date 
+pip install --upgrade pip 
 
-# install metapy,pytoml and beautifulsoup4
-pip install metapy pytoml beautifulsoup4
+# install metapy,pytoml,beautifulsoup4, selenium and pandas
+pip install metapy pytoml beautifulsoup4 selenium pandas
+
 
 ```
 
@@ -41,7 +42,7 @@ If you're on an EWS machine
 ```bash
 module load python3
 # install metapy on your local directory
-pip install metapy pytoml beautifulsoup4 --user
+pip install metapy pytoml beautifulsoup4 selenium pandas --user
 
 download the chrome driver file to use "OTC_WebScraper.py":
 https://sites.google.com/a/chromium.org/chromedriver/downloads
