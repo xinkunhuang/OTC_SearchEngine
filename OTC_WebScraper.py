@@ -182,7 +182,7 @@ if df_medication_links is None:
 # After
 start_index = '0'
 end_index = df_medication_links.shape[0]
-verticalengine_metadata_file = "VerticalSearchEngine_Final.csv"
+verticalengine_metadata_file = "OutputfromWebScraper.csv"
 
 # Check if there exist already "Vertical_Engine_MetaDataFile
 # If yes ,read the content into pandas dataframe
